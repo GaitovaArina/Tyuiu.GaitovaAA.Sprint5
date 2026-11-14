@@ -4,7 +4,7 @@ using Tyuiu.GaitovaAA.Sprint5.Task0.V2.Lib;
 namespace Tyuiu.GaitovaAA.Sprint5.Task0.V2
 {
     internal class Program
-    {
+    { 
         static void Main(string[] args)
         {
             DataService ds = new DataService();
